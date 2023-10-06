@@ -1,4 +1,28 @@
 # Creando repositorio
+### iniciar git
+```console
+git init
+```
+### agregar al stating area
+```console
+git add index.html
+```
+### ver el estado de los archivos
+```console
+git status -s
+```
+### crear repositotio local
+```console
+git commit -m "Agregado titulo. Primer parrafo"
+```
+### listar repositorio, tag, ramas
+```console
+git log --oneline
+```
+### regresar a un estado anterior borrando lo ultimo
+```console
+git reset --hard 1206fa0
+```
 
 ![image](https://github.com/rolando1803/GIT/assets/55965131/a3acdfa0-336f-4186-bcbc-024d63a57eab)
 ![image](https://github.com/rolando1803/GIT/assets/55965131/5020e119-c920-48ce-ae18-2ee9edb6b791)
@@ -38,7 +62,7 @@
 ![image](https://github.com/rolando1803/GIT/assets/55965131/2b3370db-d122-44af-a32b-22d52b02e885)
 ![image](https://github.com/rolando1803/GIT/assets/55965131/756c9056-ca75-43ec-ad68-fbd85cd06c44)
 ![image](https://github.com/rolando1803/GIT/assets/55965131/4c2d9ffa-ad2d-415a-a0be-c44c4c0be958)
-![image](https://github.com/rolando1803/GIT/assets/55965131/94538708-07c3-4625-b839-c48fe7f03d3f)
+![image](https://github.com/rolando1803/GIT/assets/5596513/94538708-07c3-4625-b839-c48fe7f03d3f)
 ![image](https://github.com/rolando1803/GIT/assets/55965131/a4606562-8a19-4f2b-93bb-672e79db54f2)
 ![image](https://github.com/rolando1803/GIT/assets/55965131/469fa59e-2b38-44c4-abd1-cbe7527a45c8)
 ![image](https://github.com/rolando1803/GIT/assets/55965131/2e77ebfa-5176-4f2f-a1b2-65ead0b50e4d)
