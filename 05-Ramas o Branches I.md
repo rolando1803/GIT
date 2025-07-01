@@ -3,6 +3,15 @@
 ![image](https://github.com/user-attachments/assets/f209163d-d2fb-42c0-b873-41c4534a303d)
 ![image](https://github.com/user-attachments/assets/bee26452-ba8a-4fb8-8579-f88a03dad5e1)
 ![image](https://github.com/user-attachments/assets/1523a926-ab4b-4cd0-a7b7-0e72517e8dc1)
+
+## puedes tambien moverte commit que quieras 
+```bash
+git checkout <hash-del-commit> 
+```
+## en caso quieras regresar al ultimo commit 
+```bash
+git checkout <mastet o main> 
+```
 ![image](https://github.com/user-attachments/assets/d504f96f-4a0e-4850-92fb-b6b2c0215726)
 ![image](https://github.com/user-attachments/assets/c2104b4c-bb1e-4c01-beef-115386f835be)
 ![image](https://github.com/user-attachments/assets/3af795f3-cb22-4382-b668-854714e2062c)
